@@ -7,3 +7,5 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ambitions0x39e/Ambitions0x39e/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ambitions0x39e/Ambitions0x39e/output/github-contribution-grid-snake.svg">
 </picture>
+
+<picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ambitions0x39e&layout=donut&hide_border=true&theme=buefy" align="center" alt="Ambitions0x39e's Github Language Use"/></picture>
